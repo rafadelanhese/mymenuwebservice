@@ -1,0 +1,10 @@
+br\com\android\Model\Receita.class
+br\com\android\Model\Categoria.class
+br\com\android\Model\Receita_.class
+br\com\android\Controller\IndexController.class
+br\com\android\Model\Categoria_.class
+br\com\android\DAO\OrigemDAO.class
+br\com\android\Model\Origem_.class
+br\com\android\DAO\ReceitaDAO.class
+br\com\android\Model\Origem.class
+br\com\android\DAO\CategoriaDAO.class
